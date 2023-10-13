@@ -260,8 +260,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title"> AutoHotkey 脚本实现一键复制文本到 ChatGPT 提示模板 </div>
-                                <div class="date">12 Sept 2023</div>
+                                <div class="title"> 使用HomeAssistant将米家设备接入到HomeKit </div>
+                                <div class="date">14 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -269,8 +269,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title"> 开放课程推荐 「面向开发者的 ChatGPT 提示词工程」 </div>
-                                <div class="date">12 Jun 2023</div>
+                                <div class="title"> AutoHotkey 脚本实现一键复制文本到 ChatGPT 提示模板 </div>
+                                <div class="date">12 Sept 2023</div>
                             </div>
                         </div>
                     </section>
@@ -278,7 +278,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2023, 00:16:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2023, 01:11:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
